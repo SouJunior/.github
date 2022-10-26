@@ -28,7 +28,7 @@ Entre em nossa comunidade no discord, lá você terá um passo a passo de como f
 ## Nossas redes sociais
 
 <p align="center">
-  <a href="https://discord.com/channels/759176734460346423/1002616193498239007">
+  <a href="https://discord.gg/zWWdRVFNhC">
   <img  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   
