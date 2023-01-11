@@ -51,6 +51,9 @@ Entre em nossa comunidade no discord, lá você terá um passo a passo de como f
 </p>
 
 ---
+Doação? Vem no : https://github.com/sponsors/SouJunior
+
+---
 
 ## 🤓 Autor
 Feito com ❤️ por
