@@ -28,7 +28,7 @@ Entre em nossa comunidade no discord, lá você terá um passo a passo de como f
 ## Nossas redes sociais
 
 <p align="center">
-  <a href="https://discord.gg/zWWdRVFNhC">
+  <a href="https://discord.gg/soujunior-community-759176734460346423">
   <img  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   
