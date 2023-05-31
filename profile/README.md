@@ -147,9 +147,14 @@ _Vem evoluir (com) o SouJunior!_
 ## 💙 Apoie
 
 <p>
-  Demonstre o seu apoio pelo projeto: https://github.com/sponsors/SouJunior.
+  Demonstre o seu apoio pelo projeto pelo Github: https://github.com/sponsors/SouJunior.
 </p>
-
+<p>
+ Demonstre o seu apoio pelo projeto com Bitcoin: bc1q5u02mtgaaxd6m0ckwksh6u8rk9q557epfqh47x
+</p>
+<p>
+Demonstre o seu apoio pelo projeto com Apoia-se: https://apoia.se/soujunior
+</p>
 <br>
 
 ## 🤔 Como fazer parte do projeto?
