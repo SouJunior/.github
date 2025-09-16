@@ -1,7 +1,7 @@
 # SouJunior — O Junior de hoje é o Sênior do amanhã!
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/98126579/197552268-8e7a4aea-5790-4cfb-b649-141c08037e32.jpg">
+  <img  src="[https://user-images.githubusercontent.com/98126579/197552268-8e7a4aea-5790-4cfb-b649-141c08037e32.jpg](https://github.com/SouJunior/ui-ux/blob/main/Identidade%20Visual/Covers/Banner_GitHub.png)">
 </p>
 
 ## 👉 Sobre
