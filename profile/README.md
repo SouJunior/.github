@@ -1,4 +1,4 @@
-# SouJunior — O Junior de hoje é o Sênior do amanhã!
+# SouJunior — O Júnior de hoje transforma o amanhã!
 
 <p align="center">
   <img  src="https://github.com/SouJunior/ui-ux/blob/main/Identidade%20Visual/Covers/Banner_GitHub.png">
